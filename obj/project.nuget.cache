@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8cKxW4nWa6TbbIXyAI8ay6DRx4vVxhxoHxEFNtp0XB19RFketpoCdjfij8mWfQquurlniisWppfJ5HrxytH/Sg==",
+  "success": true,
+  "projectFilePath": "G:\\WORK\\asp\\MediatRSample\\MediatRSample\\MediatRSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gloom\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\gloom\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\gloom\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
